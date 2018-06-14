@@ -1,0 +1,1 @@
+# phpclient-newsapi.org
